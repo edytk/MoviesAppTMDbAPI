@@ -18,4 +18,9 @@
     <string name="item_movie_release_date">2018</string>
     <string name="summary">Summary</string>
     <string name="detail">See Detail</string>
+    <string name="language">Change Language</string>
+    <!--<string name="indolang">Indonesian</string>-->
+    <string name="tap_text" translatable="false">Tap Text</string>
+    <string name="author" translatable="false">Edy Tama - 16.11.0177</string>
+
 </resources>

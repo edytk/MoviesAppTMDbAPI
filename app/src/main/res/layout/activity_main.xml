@@ -6,6 +6,8 @@
     android:layout_height="match_parent"
     tools:context=".Activity.MainActivity">
 
+
+
     <!-- RecyclerView -->
     <android.support.v7.widget.RecyclerView
         android:id="@+id/movies_list"

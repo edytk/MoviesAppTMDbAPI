@@ -18,4 +18,19 @@
         android:title="@string/upcoming"
         app:showAsAction="never" />
 
+    <!--#tambahan-->
+
+    <!--<Button-->
+        <!--android:id="@+id/button"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="@string/gantibahasa"-->
+        <!--android:layout_margin="5dp"/>-->
+    <item
+    android:id="@+id/english"
+    android:enabled="true"
+    android:title="@string/language"
+    app:showAsAction="never" />
+
+
 </menu>

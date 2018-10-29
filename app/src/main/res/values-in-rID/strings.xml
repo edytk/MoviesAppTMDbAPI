@@ -14,4 +14,6 @@
     <string name="item_movie_release_date">2018</string>
     <string name="summary">Ringkasan</string>
     <string name="detail">Lihat Selengkapnya</string>
+    <string name="language">Ganti Bahasa</string>
+    <!--<string name="indolang">Bahasa Indonesia</string>-->
 </resources>
