@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="movies">Aplikasi Film</string>
+    <string name="famous">Terkenal</string>
+    <string name="popular">Populer</string>
+    <string name="top_rate">Rating Tinggi</string>
+    <string name="upcoming">Yang Akan Datang</string>
+    <string name="sort_menu">Urutkan</string>
+    <string name="trailersLabel">Tayangan Pendek</string>
+    <string name="reviewsLabel">Ulasan</string>
+    <string name="item_movie_title">Judul Film</string>
+    <string name="item_movie_genre">Komedi</string>
+    <string name="item_movie_rating">8.7</string>
+    <string name="item_movie_release_date">2018</string>
+    <string name="summary">Ringkasan</string>
+    <string name="detail">Lihat Selengkapnya</string>
+</resources>
